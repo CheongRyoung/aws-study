@@ -3,13 +3,14 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="AWS Dumps"
+                 name="AWS Certification"
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md">
         <toc-element topic="Questions.md"/>
     </toc-element>
     <toc-element topic="정리.md">
+        <toc-element topic="EC2.md"/>
         <toc-element topic="리전.md"/>
         <toc-element topic="네트워크.md"/>
         <toc-element topic="저장공간.md"/>
